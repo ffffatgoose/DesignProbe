@@ -1,0 +1,19 @@
+LLaVA-OneVision(0.5B) HuggingFace commit: llava-hf/llava-onevision-qwen2-0.5b-ov-hf c518e3971f51911abb1a7f1d10a7841ca3e4b25c
+InternVL-v2(1B) HuggingFace commit: OpenGVLab/InternVL2-1B 3bc2e85347e17591b9387f283fef91b985b770c3
+Phi-3.5-vision(4B) HuggingFace commit: microsoft/Phi-3.5-vision-instruct 4a0d683eba9f1d0cbfb6151705d1ee73c25a80ca
+Janus-pro(7B) HuggingFace commit: deepseek-ai/Janus-Pro-7B 5c3eb3fb2a3b61094328465ba61fcd4272090d67
+LLaVA-next(7B) HuggingFace commit: llava-hf/llava-v1.6-vicuna-7b-hf c916e6cdcd760b4cecd1dd4907f84ac649f93b23
+LLaVA-next(8B) HuggingFace commit: llava-hf/llama3-llava-next-8b-hf b041c0d0ea0dd0196d147206c210c8d1752fc2da
+Llama-3.2-Vision(11B) HuggingFace commit: meta-llama/Llama-3.2-11B-Vision-Instruct 9eb2daaa8597bf192a8b0e73f848f3a102794df5
+BLIP-2 (12B) HuggingFace commit: Salesforce/blip2-flan-t5-xxl 847ce5bfa5c6b374da8f3216c50c64e2142edbed
+LLaVA-next(13B) HuggingFace commit: llava-hf/llava-v1.6-vicuna-13b-hf 745cfbdb14dfeff9bcc6eb731937102e88ea3024
+Mistral-small-3.1(24B) HuggingFace commit: mistralai/Mistral-Small-3.1-24B-Instruct-2503 73ce7c62b904fa83d7cb018e44c3bc06feed4d81
+Gemma-3(27B) HuggingFace commit: google/gemma-3-27b-it 005ad3404e59d6023443cb575daa05336842228a
+LLaVA-next (34B) HuggingFace commit: llava-hf/llava-v1.6-34b-hf 84e4488fffae48f9da316ec31288b7c03f102ec7
+InternVL-v2 (40B) HuggingFace commit: OpenGVLab/InternVL2-40B 8540fe237b3f541c44bb7a8bc235d855865bc72d
+InternVL-v2.5 (78B) HuggingFace commit: OpenGVLab/InternVL2_5-78B 2d3cac940a49fd6910bac3f4dca5047bbe86f3a2
+Qwen-VL-Max Version: qwen-vl-max-latest
+Gemini-1.5 Version: gemini-1.5-pro-latest
+Gemini-2 Version: gemini-2.0-flash
+GPT-4o Version: gpt-4o-2024-08-06
+GPT-4.1 Version: gpt-4.1-2025-04-14

@@ -1,0 +1,15 @@
+{
+    "system": "**Instructions for Evaluation:**\n\nYour task is to assess the model's response regarding questions about the visual center within a given design. Compare the model's identification of the visual center to the standard answer provided. Based on the accuracy of the model's response, assign a grade according to the following criteria:\n\n- **Correct**: The model's output exactly matches the standard answer in identifying the visual center's position.\n\n- **Partially Correct**: Assign this grade under one of the following scenarios:\n  1. The position of the visual center is correctly identified, but the model's response to the question is inaccurate.\n  2. The position of the visual center is incorrectly identified, but the reasoning or explanation aligns with that in the standard answer.\n\n- **Incorrect**: The model's output fails to identify the correct position of the visual center in relation to the overall design.\n\n- **Irrelevant**: The model's output does not address or is unrelated to the question of the visual center's position.\n\n",
+    "user": [
+        "<question> Choose the one that is closest to the poster style among the following styles: vintage, futuristic, fashion, elegant. Answer:\n<gt_answer> The poster style is closest to the vintage style.\n<model_answer> The poster style closest to the one in the image is a combination of futuristic and vintage. It features a mix of geometric shapes and archaic lettering, which is characteristic of both styles.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the vintage style.\n<model_answer> The image is a pink background with the words 'tangled' written in white letters.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the artistic style.\n<model_answer> The image you provided is in the artistic style. It appears to be a painting or drawing of a street scene with people and buildings in the background.",
+        "<question> Act as a designer or style classifier, determine the visual center of this image. Select from the following options: right_bottom, right top, right bottom, left top.\n<gt_answer> Right bottom.\n<model_answer> Right top."
+    ],
+    "assistant": [
+        "<evaluate_output> Partially",
+        "<evaluate_output> Irrelevant",
+        "<evaluate_output> Correct",
+        "<evaluate_output> Incorrect"
+    ]
+}

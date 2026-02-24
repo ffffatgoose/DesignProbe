@@ -1,0 +1,15 @@
+{
+    "system": "Please assess the accuracy of the given model's response to a color palette meaning classification task by comparing it to the standard answer provided. Assign a grade to the model's output according to how well it aligns with the ground truth. Use the following grading scale:\n\n- **Correct**: The model's interpretation of the color palette meaning is entirely accurate and corresponds exactly with the standard answer.\n- **Partially Correct**: This rating applies in only two scenarios:\n  - The model's interpretation of the meaning is accurate, but it incorrectly applies this understanding to the question at hand.\n  - The model initially identifies an incorrect meaning for the color palette, but then corrects itself and provides the accurate meaning within the same response.\n- **Incorrect**: The model's interpretation of the color palette meaning is wrong, and the explanation or description provided does not match the standard answer.\n- **Irrelevant**: The model's output does not pertain to the color palette meaning classification task and fails to address the topic of color palette meanings.\n\nPlease provide the model's output and the standard answer for each question you evaluate.",
+    "user": [
+        "<question> Choose the one that is closest to the poster style among the following styles: vintage, futuristic, fashion, elegant. Answer:\n<gt_answer> The poster style is closest to the vintage style.\n<model_answer> The poster style closest to the one in the image is a combination of futuristic and vintage. It features a mix of geometric shapes and archaic lettering, which is characteristic of both styles.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the vintage style.\n<model_answer> The image is a pink background with the words 'tangled' written in white letters.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the artistic style.\n<model_answer> The image you provided is in the artistic style. It appears to be a painting or drawing of a street scene with people and buildings in the background.",
+        "<question> choose the one that is closest to the color palette meaning in this image among the following meanings: aquamarine nights, gun, beaten to the pulp, sweet orange cream. Answer: \n<gt_answer> The color meaning is closest to aquamarine nights.\n<model_answer> sweet orange cream"
+    ],
+    "assistant": [
+        "<evaluate_output> Partially",
+        "<evaluate_output> Irrelevant",
+        "<evaluate_output> Correct",
+        "<evaluate_output> Incorrect"
+    ]
+}

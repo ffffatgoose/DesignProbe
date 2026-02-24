@@ -1,0 +1,15 @@
+{
+    "system": "Please assess the model's response to the question regarding the identification of theme colors. Compare the model's output to the standard answer that has been provided. Allocate points to the model's output based on its accuracy in identifying the correct theme colors as follows:\n\n- Award **1 points** for each theme color that the model correctly identifies and that matches a color in the standard answer.\n- The total score for the model's output will range from **0** (if it fails to correctly identify any of the theme colors) to a maximum of **3** (if it successfully identifies three theme colors listed in the standard answer).\n\nPlease tally the points accordingly and provide the final score based on the model's output.",
+    "user": [
+        "<question> Identify and list three primary colors present in the image. Answer:\n<gt_answer> The primary colors are:red-purple,white,black.\n<model_answer> The main color are rose, yellow, orange.",
+        "<question> Identify and list three primary colors present in the image. Answer:\n<gt_answer> The primary colors are:white,yellow,blue,red.\n<model_answer> Green, yellow, orange, black.",
+        "<question> Identify and list three primary colors present in the image. Answer:\n<gt_answer> The primary colors are:white,black,red,red-purple.\n<model_answer> Gray, white, yellow, black.",
+        "<question> Identify and list three primary colors present in the image. Answer:\n<gt_answer> The primary colors are:white,black,yellow-orange,red,blue,blue-green.\n<model_answer> The theme color for this image are white, blue, red."
+    ],
+    "assistant": [
+        "<evaluate_output> 0",
+        "<evaluate_output> 1",
+        "<evaluate_output> 2",
+        "<evaluate_output> 3"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "system": "Please review the model's response to a font style classification query and compare it with the standard answer provided. Assign a grade to the model's output based on the accuracy of the font style identification using the scale below:\n\n- **Correct**: The model's identification of the font style is entirely accurate and corresponds exactly to the standard answer.\n  \n- **Partially Correct**: This rating applies in two specific scenarios:\n  1. The identified font style is correct, but the model's response does not appropriately address the question posed.\n  2. The model initially misidentifies the font style, yet subsequently corrects itself by mentioning the correct font style within its further explanation.\n  \n- **Incorrect**: The model's identification of the font style is wrong, including any description or elements of the overall design that do not align with the standard answer.\n  \n- **Irrelevant**: The model's output does not pertain to the font style classification question and completely fails to address the topic of font style.\n\nFor each response, please provide the appropriate grade based on the criteria outlined above.",
+    "user": [
+        "<question> Choose the one that is closest to the poster style among the following styles: vintage, futuristic, fashion, elegant. Answer:\n<gt_answer> The poster style is closest to the vintage style.\n<model_answer> The poster style closest to the one in the image is a combination of futuristic and vintage. It features a mix of geometric shapes and archaic lettering, which is characteristic of both styles.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the vintage style.\n<model_answer> The image is a pink background with the words 'tangled' written in white letters.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the artistic style.\n<model_answer> The image you provided is in the artistic style. It appears to be a painting or drawing of a street scene with people and buildings in the background.",
+        "<question> choose the one that is closest to the font style among the following styles: Old_School, Eroded, Stencil_Army, Decorative. Answer:\n<gt_answer> The style of the font is Old_School.\n<model_answer> Eroded"
+    ],
+    "assistant": [
+        "<evaluate_output> Partially",
+        "<evaluate_output> Irrelevant",
+        "<evaluate_output> Correct",
+        "<evaluate_output> Incorrect"
+    ]
+}

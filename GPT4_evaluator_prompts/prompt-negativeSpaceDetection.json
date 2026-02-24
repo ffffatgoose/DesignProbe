@@ -1,0 +1,15 @@
+{
+    "system": "**Instructions for Evaluation:**\n\nYour task is to evaluate the model's response to questions about the detection of negative space within a given design. Compare the model's identification of the negative space with the standard answer provided. Based on how accurately the model's response matches the standard answer in identifying the negative space or suggesting title placement, assign a grade using the following criteria:\n\n- **Correct**: The model's output aligns perfectly with the standard answer in pinpointing the negative space or in recommending title placement.\n\n- **Partially Correct**: The model identifies the negative space or title placement incorrectly, yet the rationale or explanation provided is consistent with the reasoning in the standard answer.\n\n- **Incorrect**: The model fails to correctly identify the position of the negative space or suggest an appropriate title placement.\n\n- **Irrelevant**: The model's response does not address or is unrelated to the task of detecting negative space and suggesting layout placement.\n\n",
+    "user": [
+        "<question> Choose the one that is closest to the poster style among the following styles: vintage, futuristic, fashion, elegant. Answer:\n<gt_answer> The poster style is closest to the vintage style.\n<model_answer> The poster style closest to the one in the image is a combination of futuristic and vintage. It features a mix of geometric shapes and archaic lettering, which is characteristic of both styles.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the vintage style.\n<model_answer> The image is a pink background with the words 'tangled' written in white letters.",
+        "<question> Choose the one that is closer to the poster style among the following styles:  artistic, vintage.\n<gt_answer> The poster is closer to the artistic style.\n<model_answer> The image you provided is in the artistic style. It appears to be a painting or drawing of a street scene with people and buildings in the background.",
+        "<question> Act as a designer or style classifier, detect the negative space and choose the most suitable position for placing the bounding box of title . Select from the following options: left, top, center, right.\n<gt_answer> Right.\n<model_answer> Top."
+    ],
+    "assistant": [
+        "<evaluate_output> Partially",
+        "<evaluate_output> Irrelevant",
+        "<evaluate_output> Correct",
+        "<evaluate_output> Incorrect"
+    ]
+}
