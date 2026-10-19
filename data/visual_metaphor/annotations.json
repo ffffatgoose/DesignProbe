@@ -1,0 +1,1572 @@
+{
+  "samples": [
+    [
+      {
+        "image": "data/visual_metaphor/images/image_13.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is radio is begger. radio is poor and useless. people are machines.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_6.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is car seat is huge car seat. mercedes driver's cabin is huge cabin. good is big (conventional)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_3.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is car interiors are theater seating plans. audi car interior is a place where one can enjoy music in high quality of sound. audi sound system is as good as the sound system of a theater. symbol: the theater seating plan",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_5.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is weapons are family members in a family tree. violence is a transferrable trait inherited from violence.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_2.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is cigarette tip is maze. smoking is a difficult situation to escape. ( states of mind are physical locations; obstacles are physical barriers)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_8.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is symbol: the switch. coffee cup is electric switch. caffeine turns on people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_4.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is cooking spoons and spatulas are car pedals. audi car is a tool that provides taste to food.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_10.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is the car is a bullet that comes out of the head while he drinks. driving kills, if you drink.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_15.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is spray is sea. poett spray is blue sea (fresh)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_19.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is wave is coffee beans. the great wave off kanagawa (painting with a lot of white) is coffee (black).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_20.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is hamburger layers are books. macdonalds ingredients are knowledge",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_18.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: give a hand. fork is hand. giving a hand (expression) is helping provide food.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_27.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is cocaine is a broken roller coaster. drugs are untrustable fun.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_24.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is blood cells is cars. volkswagen are additional blood cells (make heart pump faster), makes you excited.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_26.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is words are bullets. discussion is war (conventional).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_23.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is guard rail is men standing on the road side. audi lane assist is human physical protection.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_31.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is woman's head is camera, man's head is finger. photo lovers are real lovers (true passion, authentic love).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_37.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is protesters pulling down a statue are pulling up a new monument. new dictator is…",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_34.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is broken vase is pieces of puzzle. glueing is putting together a puzzle (easy and strong).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_40.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is person is apple. curriculum vitae means 'course of life'. people are consumed by time as an apple. humans are fruit?",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_39.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is newspaper is sewer grate. newspaper contains garbage and dirt. news are garbage.  stinky is bad",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_54.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is reader is superhero. reading a story is living the story (real).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_50.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is brain is complicated stairways system. accessing a word in l2 is getting to the end of the stairs. conventional met: mental activity is physical activity.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_42.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is remote control is gun.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_45.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is dead leaf is painter of new leafs.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_48.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is mother with child is painting on wall. bombed mother is bombed representation of mother on the wall.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_57.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is policeman is smile symbol. police is superficial, lightheaded, stereotyped and not serious.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_47.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is three little pigs are kids inside the car. volkswagen car is safe place to be in case of danger (protection from the wolf).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_58.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is iphone is pet owner, man is pet. technology is owner of humans (has control power over humans). potential symbol: iphone for technology.  compliance is following.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_53.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is man's belly is cement sack painted on belly. real belly is fake belly (not really there).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_61.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is sand in glasshour are melting northpole and a city. potential symbol: glasshour to represent time. time is water increasingly dripping on the city (soon is going to make it drawn).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_62.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is brain is turtle. mind is slow. symbol: brain for mind?",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_64.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is wings are euros, european union is falling (defective wings).  down is bad.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_69.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is man's back is pink floyd movie poster (the wall). fear is a mute scream that makes you hide in a corner. symbol: the scream image (pink floyd)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_65.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is missiles are peace doves. war must be substituted with peace. symbol: peace doves.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_75.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is european central bank is emmental swiss cheese. european bank is swiss. symbol: european union with symbol of euro",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_74.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is third worlds country is black team of chess. western culture is white team. war between the two teams is global chess. war is game",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_80.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is shopping carts are tanks that destroy the field. consumerism is war.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_71.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is graph line is thunder. economy is dangerously and quickly falling down (conventional met: down is bad).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_77.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is countries are atomic bombs pulling one another. circle uf human denstruction is the national use of atomic bombs. symbol: nations as flags. conventional met: important is big.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_67.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is mouth shut with wood bars. talking ability is impaired. not being able to expressing oneself is having the mouth physically blocked.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_84.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is visa credit card is razor. it is dangerous to use credit cards.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_82.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is microphone for interviewing is bomb, journalist is soldier. news are big impact explosions.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_88.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is wheelbarrow is mercedes. worker's tool is fancy car. symbol: mercedes logo.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_91.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is globe is a mouth of buildings that bites the green. building construction makes all the green disappear.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_93.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people are sardines. europe is sardines can. linguistic expression: being packed as sardines.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_110.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is facebook symbol is shepherd stick. facebook is shepherd. facebook leads groups of followers. symbol: facebook.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_114.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is bike weel is clock. time is movement in the space. familiar way to express time through clock. symbol: clock for time.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_107.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is trumpet is screw, trumpet player is worker. workers are artists. manual work is as artistic as musician work",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_66.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is conventional met: humans are plants. symbol: hearts for love. woman is plant. she grows when watered with love.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_7.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is mushrooms are accused, etc. mushrooms are trial members (people. conventional?) and therefore must be executed.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_9.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is horse is woodpecker. black&amp;decker driller is combinable and provides different possibilities as a horse+woodpecker.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_12.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is symbol: painting trip to the moon with rocket in the moon's eye. bottle is rocket. italiana drink is a trip to the moon, mysterious and beautiful.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_14.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is mouse (polisemic). mouse is mouse. computer mouse is not a real mouse. beer kalnapilis is for the real deal",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_16.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is clementine is organ donor (person).  foods are people (personification). clementine is good. hortifruti takes only good fruit.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_17.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is cucumber is graph bar. percentages are cucumber slices.  more is bigger",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_22.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is breaking signs are soccer players. audi is passion.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_28.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is sink is swimming pool (big container of water). we waste as much water through the sink, as in a swimming pool.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_29.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: burning skin. man's skin is matches. skin is inflamable.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_30.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is shopping cart is jail and producers are prisoners. market is jail. pay attention to where the products you buy come from. jail bars/shopping cart potential familiar.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_32.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is elastic band is infinite symbol. definite potential is infinite opportunities.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_33.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is box for playing is jail. freedom of movement is freedom from jail.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_35.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is hands are bulldozer. man's activity is bulldozer's activity (hard physical work for which we are not built).  a person is a machine.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_38.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is green reaper is robber of clocks. symbols: green reaper (for death); clock (for time). death is robber of time. time is valuable thing (conventional).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_41.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is baby night blanket is endless road. sleeping (dreaming?) is a journey to unknown and misterious locations.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_43.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is hand is route. indicating physical direction is indicating political direction. revolution is walking against the indicated direction. symbol of revolution: red flag.  leading is changing direction",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_44.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is stomach is mouth, hunger is ..",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_46.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is poured coffee is army of soldiers: it spreads far, fast and not predictably.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_49.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is us map is 242 cheesburgers. us as a travel destination is 242 cheeseburgers' price.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_51.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is locked up piano is imminent danger. unknown word in l2 is dangerous situation. inlingua provides key to unlock (solve) the problem.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_52.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is translated words are safe box content. words meaning in l2 is a locked up value, for which inlingua is the key.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_55.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is sofa is crackers. sofa is crumbs (dirty). vorwerk cleans the crumbs.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_56.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is stone thrower photogram is previous stone thrower photogram. time is consequent and very close photograms. stern is updated every second.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_59.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is david cameron (uk prime minister) is saint george, patron of england, and eu is dragon made of tape. linguistic expression:  \"red tape\" is used to refer to official rules and procedures when they seem unnecessary and cause delay. cameron is fighter against unnecessary eu procedures.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_60.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is ipad is lion tamer, man is lion. potential symbol: ipad for technology. technology controls of humans.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_63.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is grim reaper's tool is 3 different cutting devices. killing is cutting.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_68.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is idiom: stab someone in the back",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_70.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is europe (represented by the familiar symbol of the european flag) is falling apart like the billboard, and compared to a begger (simile).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_72.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is up is good.  the rescue of the economy is life saver. the economy is an anvil.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_73.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is up is good. symbols: graph lines are amounts of votes.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_79.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is windows are tv. outside world is tv shows.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_81.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is horn of africa (geo map) is rhyno horn. peace is dove (symbol). message: peace for somalia. linguistic expression: horn of africa.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_83.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is blackberry is french flag (see delacroix paiting). blackberry symbol of revolution.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_86.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is airplane is bread loaf. giving is losing. cartoon about charity: when you give something you lose something but it is important to give.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_87.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is putin is lion who ate reporters and photographers. symbol: putin karikatur.  people are animals",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_89.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is nation are people (conventional). european union is man that puts on large pants. the enlargement of eu is a man wearing bigger clothes. symbol: european union as flag.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_92.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is brain is arm that stops the arm from beating. rational control is brain, istinct is arm. rational control is stopping instinctive aggressions. emotion is physical violence.symbol: brain as familiar symbol for rational control.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_94.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is scissors are acquatic predator. censorship is dangerous, latent and impredictable killer. cutting news is physical cutting. symbol of cutting: scissors (familiar). idiom: cutting news",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_95.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is death is grim reaper. lust for life is an old man fighting the green reaper. symbol: green reaper.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_98.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is cables are enclosures. cables stand for network, enclosure stands for protection/security system. connecting with labris is being protected.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_108.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is eros' arrows are bar code lines. love is eros. consumerism is bar code. symbols: eros and bar code.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_109.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is priests are three wise monkeys. cupid is baby. religious representatives are pretending they don't know about pedophilia (represented by candid angel). knowing is seeing, knowing is hearing, knowing is speaking. symbol: 3 monkeys.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_111.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is military boot's sole is jail bars. military is lack of freedom.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_112.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is direction is arrow. leading is deciding direction. change of state is change of direction? symbol: arrow for direction.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_113.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is obama is rising sun, bush is dark cloud in the background. hope is light. bad is dark.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_115.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is fountain pen is a bullet. signing is powerful. signatures can prevent killing/death penalty.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_117.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is bars are potential familiar for jail.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_118.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is lines of the road are closed eyes. when driving you need to be awake. audi is safe because its cars include fatigue detectors. audi is a good brand.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_155.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is the newly married royal couple is entering a golden cage. the married couple (kate and william) stands for royal marriage in the uk (metonymy). the golden cage stands stands for being confined/imprisoned. marriage is a cage.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_181.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is boats are religions. rowers are religious believers/practitioners. boats are sailing in different directions. major religions are contradictory (there are contradictions even within the same religion (christianity)).",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_196.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is the lonely cowboy is in dark and he is riding towards sunrise.the cowboy stands for usa, and the flag is the symbol of china (metonymy).usa economy is falling and chinese economy is rising.usa may hope to solve their problems with the help of china.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_202.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is a young woman in a white dress (similar to marilyn monroe) is placed into munch's picture 'the scream'. she stands for american popular culture.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_226.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is potential: lack of options or freedom is physical captivity",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_229.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is potential  time is a resource that is slowly consumed",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_235.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is anthropomorfism",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_236.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is anthropomorfism",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_243.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is maybe there is some linguistic expression in another language, like headache is having dwarves hammering your head",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_245.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: death is policeman, conceptual: death is person who makes you pay for your mistakes (?)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_246.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is earth is a potato",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_247.gif",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is stalin is an executioner",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_248.gif",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: cremlin is a weight on a poor man's back. conceptual: communism is a difficulty for poor people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_249.gif",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: capitals of former soviet countries are buried corpses. gorbacev is gravedigger. conceptual: countries are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_251.gif",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is russie is a bomb",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_252.gif",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: soviet union is rescuing platform for gorbacev. conceptual:soviet union is something that prevents gorbacev to die",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_253.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: european union is circle of stars in the sky. concept: eu is a far away entity to reach",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_254.gif",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is gorbacev is unraveling (sadly) the soviet union.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_255.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression: metropolis is bait in a trap (one dimension)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_257.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is humans are plants",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_259.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is life is a journey",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_260.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convention: down is bad",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_261.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convention: down is bad",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_262.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convention: personification",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_263.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convention: communication is war",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_264.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is arms are countries (flags are symbols for countries). a (latin) immigrant is pushed by mexico to the usa. the usa is pushing him (standing for immigrants/metonymy part for whole) back to mexico. (latin) immigrants are not wanted in the usa (american dream, land of opportunities). they can't stay in latin america due to the lack of opportunities.",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_270.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is (personification)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_271.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is (up is good, life is a journey)",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_278.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convention: people are plants",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_279.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convention: people are plants",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_281.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people are plants",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_284.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is clock's pendulum is shovel. time (represented by the clock) relentlessly digs our graves, making us closer to death. conventional metaphor: time is a changer",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_285.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is linguistic expression: \"shoot\"",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_289.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is year uncertain",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_291.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression realization categorization of this image is difficult. conventional metaphor: stinky is bad",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_293.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is potential symbol: mouse and other familiar technological items as a metonymical symbol for technology",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_294.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is ideas are food",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_295.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is countries are people familiar symbol: us as the statue of liberty",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_296.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people are plants potential familiar symbol: the military symbolized by pins and uniforms",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_298.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: eu as its flag",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_299.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is more is heavier familiar symbol: flag",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_300.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is opportunities are open doors",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_303.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is convenional metaphor: time is a pursuer familiar: time as a clock",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_305.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: \"der wandere uber dem nebelmeer\"",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_306.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is important is big familiar: map",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_309.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: map",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_311.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is anthropomorfism, bad is down familiar symbol: flag",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_312.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: map and flag",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_313.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is important is big",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_314.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is important is big, bad is down familiar symbol: thumbs up",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_316.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is bad is down",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_317.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is countries are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_319.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is harm is physical injury",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_320.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: currency",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_321.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is countries are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_322.png",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people are animals",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_323.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people are plants",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_324.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is countries are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_325.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar: cut for budget cut",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_326.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expression realization: arguably integrated",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_327.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is bad is down",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_328.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is bad is down familiar symbol: euro/currency",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_330.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is potentional  removal is cutting familiar (debatable): cutting for removal",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_334.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is anthropomorfism familiar symbol: reaper",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_337.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar: cross",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_340.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is dispute is war familiar symbol: time as a clock",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_341.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people are animals",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_342.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is important is big",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_343.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is potential  capitivity is lack of freedom",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_344.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is down is bad familiar symbol: map",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_345.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: logo",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_346.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is big is important familiar symbol: \"x\" for no",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_347.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is argument is war",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_349.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is big is important",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_350.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: crow for mystery and death",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_351.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar symbol: dollar bills",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_352.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is down is bad familiar symbol: parthenon for greece",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_353.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is personal feelings are objects",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_354.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is big is important",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_355.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is animals are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_358.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is up is good familiar symbol: japanese flag",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_359.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is perhaps not a metaphor",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_361.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is familiar: tesco logo",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_362.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is potential  growth is good",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_363.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is up is more, down is less",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_367.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is animals are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_368.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is down is bad",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_369.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expr dim: baggage is body made of sky and clouds. concept.dim: people are tools",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_370.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is expr dim: brain is air balloon. (metonymy: air balloon stands for flying) concept.dim: knowledge is freedom",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_371.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is outfit is identity, lack of outfit is lack of identity",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_372.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is people get manipulated by the media as little toys in between hands playing with strings",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_373.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is brain is string",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_374.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is brain is paper archive",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_375.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is head is jail mind is jail",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_376.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is nations are people",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_377.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is book stands for language language is food",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_378.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is vital organs are trees humans are plants",
+        "position": null
+      }
+    ],
+    [
+      {
+        "image": "data/visual_metaphor/images/image_379.jpg",
+        "question": "Describe the metaphorical meaning of the image. Answer:",
+        "answer": "The metaphorical meaning of the image is \"innovation\" is \"thinking out of the box\". box is jail, human is sky and clouds.",
+        "position": null
+      }
+    ]
+  ]
+}

@@ -1,75 +1,76 @@
+Official repository for **Can Multimodal Large Language Models Understand Graphic Design? A Comparative Study**, *IEEE Transactions on Multimedia*, 2026. ([Paper](https://doi.org/10.1109/TMM.2026.3684992)), which evaluates graphic design understanding in multimodal large language models through eight tasks spanning recognition, semantic understanding, and overall design. This release provides **1.6K image samples and 5.2K questions**.
 
+![Overview of the eight DesignProbe tasks](pic/first_pic.png)
 
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) -->
-
-This is the official repository for the paper **"Can Multimodal Large Language Models Understand Graphic Design? A Comparative Study"**
-<!-- , accepted by *IEEE Transactions on Multimedia*.  -->
-
-This repository serves as the complete **Reproducibility Package** and hosts our **Supplementary Materials** to ensure full transparency, replicability, and accessibility of our research.
-
----
-
-## 📁 Repository Structure
+## Repository contents
 
 ```text
-├── supplementary_material/
-│   └── supplementary.pdf  # Supplementary document for model stability
+├── data/                                            # Main benchmark images, questions, and answers
+├── GPT4_evaluator_prompts/                           # Exact evaluator prompt for 8 tasks
+├── eval_gpt4.py                                      # Lightweight script to reproduce GPT-4 scores
+├── requirements.txt                               
+├── baseline_version.txt                             # Commit hashes and API versions for all models
 ├── human_validation/
 │   ├── evaluator640_test_annotations.csv             # 640 human-validated samples & GPT-4 scores
 │   └── negative_space_detection_annotations.csv      # Additional raw annotations for Task #3
-├── GPT4_evaluator_prompts/
-│   ├── prompt-colorPaletteMeaning.json               # Exact JSON prompt for Task 1
-│   ├── prompt-styleClassification.json               # Exact JSON prompt for Task 7
-│   └── ... (other task prompts)
-├── eval_gpt4.py                                      # Lightweight script to reproduce GPT-4 scores
-├── requirements.txt                                  # Exact library versions for reproducibility
-├── baseline_version.txt                              # Commit hashes and API versions for all models
+├── supplementary_material/
+│   └── supplementary.pdf                            # Supplementary document for model stability
+├── pic/                                             # Figures shown in this README
 └── README.md
 ```
 
----
+## Evaluation
 
-## 📄 1. Supplementary Material
+1. **Generate model answers.** Load `data/<task>/annotations.json` and send each `image` and `question` to the model being tested.
+2. **Grade the answers.** We use GPT-4 to compare model answers with the reference `answer`. The evaluator prompts are in [GPT4_evaluator_prompts/](GPT4_evaluator_prompts/), and the calling procedure is provided in [eval_gpt4.py](eval_gpt4.py).
+3. **Aggregate scores.** For each multiple-choice task, compute the score at each answer `position` and report the mean across the four positions. Open-answer tasks are evaluated once.
 
-Due to limited space, the detailed **95% bootstrap confidence intervals (10,000 resamples)** for specific tasks, which extensively demonstrate model stability across different test settings, have been provided as a supplementary document. 
+## Exploration and analysis
 
-You can find the full details in: [`supplementary_material/supplementary.pdf`](./supplementary_material/supplementary.pdf).
+### 1. Prompt rewriting
 
----
+The following prompts use the same Font Style example. The correct answer is **Initials**.
 
-## 🛠️ 2. Reproducibility Package
+![Font Style example with the answer Initials](pic/font_style_example.png)
 
-To address the importance of reproducibility and evaluation transparency, we provide all materials required to reproduce the GPT-4 evaluator scores on our 640-sample subset:
+**Original**
 
-*   **Human Evaluator Labels:** Found in `human_validation/`. Includes raw annotations from three experts, aggregated consensus, and our recorded GPT-4 evaluation scores.
-*   **GPT-4 Grading Prompts:** Found in `GPT4_evaluator_prompts/`. Contains the exact system instructions and few-shot examples (in JSON format) used for all 8 hierarchical design evaluation tasks.
-*   **Model Versions & Hashes:** Found in `baseline_version.txt`. Lists the exact commit hashes for open-weight models (e.g., LLaVA-Next, InternVL) and dated versions for API models (e.g., `gpt-4o-2024-08-06`).
+> Act as a designer or style classifier, choose the one that is closest to the font style among the following styles: Initials, Stencil_Army, Typewriter, Grid. 
 
----
+**GPT-4 — short**
 
-## 🚀 3. Quick Start (Reproducing Evaluation)
+> Act as a style classifier and identify the closest match to the font style among:Initials, Stencil_Army, Typewriter, Grid.
 
-We provide a lightweight Python script to reproduce the GPT-4 automated evaluation.
+**GPT-4 — medium**
 
-<!-- ---
+> Act as a designer and font style classifier. Analyze the provided font and determine which category it most closely aligns with: Initials, Stencil_Army, Typewriter, Grid.  Explain your choice by identifying the key visual characteristics of the font and how they correspond to the defining features of the selected category.
 
-## 📝 Citation
+**GPT-4 — long**
 
-If you find our benchmark, dataset, or code useful for your research, please consider citing our paper:
+>  Act as a professional designer and style classifier. Carefully analyze the provided image and evaluate its visual characteristics, including composition, typography, color palette, imagery, and overall aesthetic. Based on your analysis, determine which style the font most closely resembles from the following options:Initials, Stencil_Army, Typewriter, Grid. Consider the unique design principles and features of each option when making your decision. Provide a clear and concise explanation for your choice, highlighting the key elements in the image that align with the selected style. Your response should demonstrate expertise in design and visual classification.
+
+**Llama-3.1 — short**
+
+> Classify the font style. Which style is closest: Initials, Stencil_Army, Typewriter, Grid.
+
+### 2. Incorporating supplementary information
+
+Text descriptions and visual examples provide additional information about each option:
+
+![Examples of supplementary text descriptions and visual references](pic/ablation_examples_2.png)
+
+## Citation
+
+If you use DesignProbe, please cite our paper:
 
 ```bibtex
-@article{designprobe2024,
-  title={[Your Full Paper Title Here]},
-  author={[Author 1 and Author 2 and Author 3]},
-  journal={IEEE Transactions on Multimedia},
-  year={[202X]},
-  doi={[Paper DOI when available]}
+@article{lin2026designprobe,
+  author  = {Lin, Jieru and Huang, Danqing and Zhao, Tiejun and Zhan, Dechen and Lin, Chin-Yew},
+  title   = {Can Multimodal Large Language Models Understand Graphic Design? A Comparative Study},
+  journal = {IEEE Transactions on Multimedia},
+  volume  = {28},
+  pages   = {9178--9188},
+  year    = {2026},
+  doi     = {10.1109/TMM.2026.3684992}
 }
 ```
-
-## 📜 License
-
-*   The code in this repository is licensed under the [MIT License](LICENSE).
-*   The dataset and annotations (`.csv` files) and supplementary materials are licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-``` -->
